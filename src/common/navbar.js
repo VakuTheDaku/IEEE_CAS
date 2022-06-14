@@ -7,10 +7,11 @@ function Navbar() {
             <div className="flex justify-between w-screen" >
                 
                     <div>
-                        <a className="btn btn-ghost normal-case text-xl ">IEEE CAS logo</a>
+                        <img src="img/logo.svg" className="btn btn-ghost normal-case text-xl" alt="Flowbite Logo" />
+                        
                     </div>
                     <div className="flex">
-                        <a className="btn btn-ghost normal-case text-xl ">IEEE logo</a>
+                        <img src="https://pes.ieeekerala.org/wp-content/uploads/2022/04/ieee-mb-black-png.png" className="btn btn-ghost normal-case text-xl" alt="Flowbite Logo" />
                     </div>
                 
                 </div>
