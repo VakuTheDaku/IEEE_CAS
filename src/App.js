@@ -1,6 +1,7 @@
 import Navbar from "./common/navbar";
 import HomeSlides from "./components/HomeSlides";
 import RecentEvents from "./components/RecentEvents";
+import 'tw-elements';
 
 function App() {
   return (

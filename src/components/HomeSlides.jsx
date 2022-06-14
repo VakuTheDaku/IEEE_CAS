@@ -9,7 +9,7 @@ const HomeSlides = () => {
         <div className="carousel-inner relative w-full overflow-hidden">
             <div className="carousel-item active relative float-left w-full">
             <img
-                src="https://mdbootstrap.com/img/Photos/Slides/img%20(15).jpg"
+                src="https://via.placeholder.com/740x450.png?text=Slide1"
                 className="block w-full"
                 alt="..."
             />
@@ -20,7 +20,7 @@ const HomeSlides = () => {
             </div>
             <div className="carousel-item relative float-left w-full">
             <img
-                src="https://mdbootstrap.com/img/Photos/Slides/img%20(22).jpg"
+                src="https://via.placeholder.com/740x450.png?text=Slide2"
                 className="block w-full"
                 alt="..."
             />
@@ -31,7 +31,7 @@ const HomeSlides = () => {
             </div>
             <div className="carousel-item relative float-left w-full">
             <img
-                src="https://mdbootstrap.com/img/Photos/Slides/img%20(23).jpg"
+                src="https://via.placeholder.com/740x450.png?text=Slide3"
                 className="block w-full"
                 alt="..."
             />
